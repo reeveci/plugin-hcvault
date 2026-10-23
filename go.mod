@@ -4,7 +4,7 @@ go 1.26.0
 
 require (
 	github.com/hashicorp/go-hclog v1.6.3
-	github.com/reeveci/reeve-lib v1.4.0
+	github.com/reeveci/reeve-lib v1.4.1
 )
 
 require (
